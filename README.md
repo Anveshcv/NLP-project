@@ -1,4 +1,4 @@
-# NLP-project
+# NLP-project using Watson API
 
 Human language is very complex and diverse. Expressing our thoughts can be done in infinite ways, both verbally and in writing. There are hundreds of languages and dialects, but within each language is a unique set of grammar and syntax rules, terms and slang. When we write, we usually misspell or abbreviate words, or omit punctuation. When we speak, we have many regional accents, and we stutter and borrow terms from other languages. 
 Natural language processing (NLP) helps machines to communicate with humans in their own language and scales other language-related tasks. NLP helps computers to read text, hear speech, interpret it, measure sentiment and determine which parts are important. Today’s machines can analyze more language-based data than humans in an unbiased way. Considering the large amount of unstructured data that’s generated every day, automation will be critical to fully analyze text and speech data. NLP helps resolving ambiguity in language and adds useful numeric structure to the data for many downstream applications.
