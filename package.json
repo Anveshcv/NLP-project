@@ -1,0 +1,24 @@
+{
+  "name": "naturallanguage",
+  "version": "1.0.0",
+  "description": "restful api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "@google-cloud/language": "^2.1.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.20",
+    "mysql": "^2.16.0",
+    "readline-sync": "^1.4.9",
+    "unirest": "^0.6.0",
+    "watson-developer-cloud": "^4.0.1"
+  }
+}
